@@ -6,9 +6,9 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "menu-apps"
-    label: "Menu Apps"
-    folder: "src/pages/menu-apps"
+  - name: "menu-app"
+    label: "Menu App"
+    folder: "src/pages/menu-app"
     create: true
     slug: "{{slug}}"
     fields:
